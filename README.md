@@ -18,10 +18,12 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  
 # CyberSecurity Projects
 
-### My CyberSecurity Professional Statement
+#### My CyberSecurity Professional Statement
 
  * Below is an attached link to my Cybersecurity Professional Statement.
    - [Cybersecurity Professional Statement](https://tsongodzaevidence.github.io/CyberSecurity-Professional-Statement/)
+
+#### 1. Company Security Audit Project
     
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
