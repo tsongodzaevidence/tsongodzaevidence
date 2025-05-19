@@ -24,6 +24,14 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
    - [Cybersecurity Professional Statement](https://tsongodzaevidence.github.io/CyberSecurity-Professional-Statement/)
 
 ### 1. Company Security Audit Project
+
+ * I conducted a security audit from a fictional company
+ * I reviewed the scope, goals, and risk assessment report for the company.
+ * I also considered risks to customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
+ * I reviewed the control categories document from the company.
+ * Finally, i also came up with upgrdes that could be made to the company's security.
+   - [Company Security Audit Project](https://tsongodzaevidence.github.io/CyberSecurity-Professional-Statement/)
+
     
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
