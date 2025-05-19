@@ -21,8 +21,8 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
 - <b>My CyberSecurity Professional Statement</b>
 
 * I have written my professional cybersecurity professional statement and the document is attached to the following like
-  - [Professional Cybersecurity Professional Statement](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
+  - [Cybersecurity Professional Statement](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
