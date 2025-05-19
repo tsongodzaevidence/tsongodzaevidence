@@ -18,7 +18,7 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
 
 # Projects
 
-## 1. CyberSecurity Projects
+## A. CyberSecurity Projects
 
 ### My CyberSecurity Professional Statement
 
