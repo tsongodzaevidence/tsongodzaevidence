@@ -36,6 +36,7 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
 
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
+## E. C/C++ PROJECTS.
 
 ### Socials
 
