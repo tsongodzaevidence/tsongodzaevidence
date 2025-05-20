@@ -18,7 +18,7 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
 
 # Projects
 
-## A. CyberSecurity Projects
+## A. CYBERSECURITY PROJECTS.
 
 ### My CyberSecurity Professional Statement
 
@@ -33,6 +33,9 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  * I reviewed the control categories document from the company.
  * Finally, i also came up with upgrdes that could be made to the company's security.
    - [Company Security Audit Project](https://tsongodzaevidence.github.io/Company-Security-Audit/)
+
+## B. DATA SCIENCE PROJECTS.
+## D. PROJECT MANAGEMENT PROJECTS.
 
 ### Socials
 
