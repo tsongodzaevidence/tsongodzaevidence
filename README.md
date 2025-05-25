@@ -32,7 +32,7 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  * I also considered risks to customers, employees, and/or assets, based on controls and compliance best practices that are or are not currently implemented.
  * I reviewed the control categories document from the company.
  * Finally, i also came up with upgrdes that could be made to the company's security.
-   - [Company Security Audit Project](https://github.com/tsongodzaevidence/CyberSecurity-Professional-Statement)
+   - [Company Security Audit Project](https://tsongodzaevidence.github.io/Company-Security-Audit/)
 
 ### 2. Conducting a Company Incident Report 
 
