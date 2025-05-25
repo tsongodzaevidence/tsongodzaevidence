@@ -40,7 +40,7 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  * I also analysed the sistuation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
  * Creating a quality cybersecurity incident report and applying the CSF can demonstrate a proactive approach to security, improving communication and transparency with stakeholders, and improve 
    security practices within your organization.
-   - [Company Incident Report ](https://tsongodzaevidence.github.io/Company-Security-Audit/)
+   - [Company Incident Report ](https://github.com/tsongodzaevidence/Responding_To_A_Security_Incident)
 
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
