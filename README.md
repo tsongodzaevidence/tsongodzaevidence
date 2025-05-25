@@ -34,6 +34,14 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  * Finally, i also came up with upgrdes that could be made to the company's security.
    - [Company Security Audit Project](https://tsongodzaevidence.github.io/Company-Security-Audit/)
 
+### 2. Conducting a Company Incident Report 
+
+ * I created an incident report using the knowledge i gained on networks.
+ * I also analysed the sistuation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
+ * Creating a quality cybersecurity incident report and applying the CSF can demonstrate a proactive approach to security, improving communication and transparency with stakeholders, and improve 
+   security practices within your organization.
+   - [Company Incident Report ](https://tsongodzaevidence.github.io/Company-Security-Audit/)
+
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
 ## E. C/C++ PROJECTS.
