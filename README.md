@@ -42,13 +42,12 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
    security practices within your organization.
    - [Company Incident Report ](https://github.com/tsongodzaevidence/Responding_To_A_Security_Incident)
 
-### 3. Conducting a Company Incident Report 
+### 3. Linux file permissions
 
- * I created an incident report using the knowledge i gained on networks.
- * I also analysed the sistuation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
- * Creating a quality cybersecurity incident report and applying the CSF can demonstrate a proactive approach to security, improving communication and transparency with stakeholders, and improve 
-   security practices within your organization.
-   - [Company Incident Report ](https://github.com/tsongodzaevidence/Responding_To_A_Security_Incident)
+ * I examined the existing permissions on the file system.
+ * i also determined if the permissions matched the authorisation that should be given.
+ * I modified some permissions and authorises the appropriate users and removed any unauthorised access.
+   - [Linux File Systems Project](https://github.com/tsongodzaevidence/linux-file-permissions)
 
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
