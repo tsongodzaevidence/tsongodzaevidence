@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tsongodza Evidence
 ==========================================================================================================================================
 
-Aspiring Electronics Engineer | Cybersecurity Analyst | Data Scientist | C/C++
+Aspiring Electronics Engineer | Cybersecurity Analyst | System Administration and IT Services Engineer | C/C++
 ------------------------------------------------------------------------------
 
 A dynamic and versatile electronics engineer, cybersecurity analyst and a data scientist with a passion for continuous learning, proficient in mastering new technologies and adapting to evolving technical landscapes with agility and precision.
