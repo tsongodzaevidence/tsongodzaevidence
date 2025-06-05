@@ -57,9 +57,10 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
   
 ### 5. Analyze a vulnerable system for a small business
 
- * I examined the organization’s data in their tables.
- * I also used SQL filters to retrieve records from different datasets and investigate the potential security issues.
-   - [Analyze a vulnerable system for a small business](https://github.com/tsongodzaevidence/SQL-filters)
+ * I conducted a vulnerable assessment for a small business.
+ * A vulnerability assessment is the internal review process of an organisation's security systems.
+ * I also evaluated a vulnerable information system and outlined a remediation plan.
+   - [Analyze a vulnerable system for a small business](https://github.com/tsongodzaevidence/vulnerable-analysis-of-a-business)
 
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
