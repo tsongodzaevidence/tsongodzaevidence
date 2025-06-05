@@ -50,10 +50,16 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
    - [Linux File Systems Project](https://github.com/tsongodzaevidence/linux-file-permissions)
   
  ### 4. SQL queries (Applying filters)
-examine the organization’s data in their employees and log_in_attempts tables. You’ll need to use SQL filters to retrieve records from different datasets and investigate the potential security issues.
+
  * I examined the organization’s data in their tables.
  * I also used SQL filters to retrieve records from different datasets and investigate the potential security issues.
    - [SQL queries](https://github.com/tsongodzaevidence/SQL-filters)
+  
+### 5. Analyze a vulnerable system for a small business
+
+ * I examined the organization’s data in their tables.
+ * I also used SQL filters to retrieve records from different datasets and investigate the potential security issues.
+   - [Analyze a vulnerable system for a small business](https://github.com/tsongodzaevidence/SQL-filters)
 
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
