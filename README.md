@@ -66,7 +66,7 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
 
  * I reviewed the details of a security incident and documented the incident using handler's journal
  * I applied my documentation skills usind this journal and recorded the experiences i had annalised in the course
-   - [Incident handler's journal](https://github.com/tsongodzaevidence/vulnerable-analysis-of-a-business)
+   - [Incident handler's journal](https://github.com/tsongodzaevidence/Documenting-an-Incident-Responce)
 
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
