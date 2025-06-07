@@ -62,6 +62,12 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  * I also evaluated a vulnerable information system and outlined a remediation plan.
    - [Analyze a vulnerable system for a small business](https://github.com/tsongodzaevidence/vulnerable-analysis-of-a-business)
 
+### 6. Document an incident with an incident handler's journal
+
+ * I reviewed the details of a security incident and documented the incident using handler's journal
+ * I applied my documentation skills usind this journal and recorded the experiences i had annalised in the course
+   - [Incident handler's journal](https://github.com/tsongodzaevidence/vulnerable-analysis-of-a-business)
+
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
 ## E. C/C++ PROJECTS.
