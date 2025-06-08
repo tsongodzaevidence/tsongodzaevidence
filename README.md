@@ -73,9 +73,11 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  * I developed python algorithms that involved opening files and parsing their contents.
    - [Python Algorithm](https://github.com/tsongodzaevidence/Python-Algorithm-Automation)
 
-## B. DATA SCIENCE PROJECTS.
-## D. PROJECT MANAGEMENT PROJECTS.
-## E. C/C++ PROJECTS.
+## B. PYTHON PROJECTS
+## D. C/C++ PROJECTS
+## E. PROJECT MANAGEMENT PROJECTS
+## G. AI AND ML PROJECTS
+## I. DATA SCIENCE PROJECTS
 
 ### Socials
 
