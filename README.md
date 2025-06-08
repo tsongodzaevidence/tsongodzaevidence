@@ -68,6 +68,11 @@ A dynamic and versatile electronics engineer, cybersecurity analyst and a data s
  * I applied my documentation skills usind this journal and recorded the experiences i had annalised in the course
    - [Incident handler's journal](https://github.com/tsongodzaevidence/Documenting-an-Incident-Responce)
 
+### 6. Python File Update Algorithm 
+
+ * I developed python algorithms that involved opening files and parsing their contents.
+   - [Python Algorithm](https://github.com/tsongodzaevidence/Python-Algorithm-Automation)
+
 ## B. DATA SCIENCE PROJECTS.
 ## D. PROJECT MANAGEMENT PROJECTS.
 ## E. C/C++ PROJECTS.
